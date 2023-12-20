@@ -1,3 +1,5 @@
+# ignore swift, SwiftPackageManager, cocoaPods, macOS
+
 # Created by https://www.toptal.com/developers/gitignore/api/swift,swiftpackagemanager,cocoapods,macos
 # Edit at https://www.toptal.com/developers/gitignore?templates=swift,swiftpackagemanager,cocoapods,macos
 
